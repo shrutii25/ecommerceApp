@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+
+main {
+  min-height: 80vh;
+}
+
+h3 {
+  padding: 1rem 0;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+  font-family: "Poppins", sans-serif;
+}
+
+p {
+  font-family: "Noto Sans", sans-serif;
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
+
+.copyright {
+  font-size: 1rem;
+}
